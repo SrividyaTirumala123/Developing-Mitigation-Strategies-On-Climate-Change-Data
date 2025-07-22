@@ -40,7 +40,7 @@ It provides insights into how expanding green cover and increasing renewable ene
 
 ## 📁 Files
 
-- `main.py` – Main Python script combining both visualizations  
+- `Code.py` – Main Python script combining both visualizations  
 - `GlobalTemperatures.csv` – Climate data sample  
 - `Weather.csv` – Renewable energy and CO₂ data
 
