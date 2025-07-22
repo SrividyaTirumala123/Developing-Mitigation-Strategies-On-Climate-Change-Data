@@ -1,3 +1,4 @@
+
 Climate Change Mitigation Strategies 
 
 This project visualizes two important strategies for mitigating climate change:
@@ -27,5 +28,6 @@ ________________________________________
 •	main.py – Main Python script combining both visualizations
 •	GlobalTemperatures.csv – Climate data sample
 •	Weather.csv – Renewable energy and CO₂ data
+
 
 
