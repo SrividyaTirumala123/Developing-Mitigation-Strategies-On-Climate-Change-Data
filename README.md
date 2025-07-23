@@ -22,7 +22,7 @@ It provides insights into how expanding green cover and increasing renewable ene
 
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 - Correlation Analysis – Understanding the relationship between land area and carbon absorption rate.  
 - Trend Analysis – Observing how renewable energy usage grows over the years.  
@@ -30,7 +30,7 @@ It provides insights into how expanding green cover and increasing renewable ene
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Pandas – For dataset handling  
