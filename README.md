@@ -30,19 +30,7 @@ It provides insights into how expanding green cover and increasing renewable ene
 
 ---
 
-##  Tech Stack
 
-- Python  
-- Pandas – For dataset handling  
-- Matplotlib – For generating comparative visualizations
-
----
-
-## 📁 Files
-
-- `Code.py` – Main Python script combining both visualizations  
-- `GlobalTemperatures.csv` – Climate data sample  
-- `Weather.csv` – Renewable energy and CO₂ data
 
 
 
