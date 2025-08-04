@@ -6,8 +6,12 @@ This project visualizes two important strategies for mitigating climate change:
 1. Carbon Sequestration through land usage  
 2. Renewable Energy Adoption over time
 
-It provides insights into how expanding green cover and increasing renewable energy usage can impact climate positively. The project uses real-world analytical methods to interpret these trends.
+It uses analytical methods to interpret these trends.
 
+- Correlation Analysis – Understanding the relationship between land area and carbon absorption rate.  
+- Trend Analysis – Observing how renewable energy usage grows over the years.  
+- Impact Analysis – Evaluating how land-based and energy-based strategies can reduce carbon emissions over time.
+  
 ---
 
 ## 📊 Visualizations
@@ -22,11 +26,7 @@ It provides insights into how expanding green cover and increasing renewable ene
 
 ---
 
-##  Analytical Methods
 
-- Correlation Analysis – Understanding the relationship between land area and carbon absorption rate.  
-- Trend Analysis – Observing how renewable energy usage grows over the years.  
-- Impact Analysis – Evaluating how land-based and energy-based strategies can reduce carbon emissions over time.
 
 
 
