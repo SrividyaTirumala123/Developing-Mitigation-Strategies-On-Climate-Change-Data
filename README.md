@@ -8,9 +8,9 @@ This project visualizes two important strategies for mitigating climate change:
 
 It uses analytical methods to interpret these trends.
 
-- Correlation Analysis – Understanding the relationship between land area and carbon absorption rate.  
-- Trend Analysis – Observing how renewable energy usage grows over the years.  
-- Impact Analysis – Evaluating how land-based and energy-based strategies can reduce carbon emissions over time.
+- Correlation Analysis  –  Understanding the relationship between land area and carbon absorption rate.  
+- Trend Analysis  –  Observing how renewable energy usage grows over the years.  
+- Impact Analysis  –  Evaluating how land-based and energy-based strategies can reduce carbon emissions over time.
   
 ---
 
