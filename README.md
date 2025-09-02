@@ -1,5 +1,5 @@
 
-# Climate Change Mitigation Strategies
+# Analysis of Climate Data for Mitigation Strategies
 
 This project visualizes two important strategies for mitigating climate change:
 
